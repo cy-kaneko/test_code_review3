@@ -1,0 +1,13 @@
+{
+  "name": "kintone_training",
+  "version": "0.0.1",
+  "description": "project description",
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  },
+  "eslintIgnore": [
+    "**/*.min.js"
+  ]
+}
