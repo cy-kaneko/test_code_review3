@@ -5,6 +5,7 @@
   "author": "",
   "license": "",
   "devDependencies": {
+    "@cybozu/eslint-config": "^10.0.3",
     "eslint": "^6.8.0"
   },
   "eslintIgnore": [
